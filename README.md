@@ -1,5 +1,5 @@
 <h2 align="center" style="
-  background: url('https://github.com/mainavict/pics/blob/main/iimage1.jpg') no-repeat center center;
+  background: url('https://hips.hearstapps.com/pop.h-cdn.co/assets/17/24/1497533116-not-dead.gif') no-repeat center center;
   background-size: cover;
   padding: 50px;
   color: white;
