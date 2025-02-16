@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is victor and I'm a  software engineer from  kenya</h2>
+<h2 align="center" style="background: url('https://pin.it/4OMTpKWVe') no-repeat center center; background-size: cover; padding: 50px; color: white;">
+  Hi 👋! My name is Victor and I'm a software engineer from Kenya
+</h2>
 
 ###
 
