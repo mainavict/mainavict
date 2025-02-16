@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada <a/></h3>
+<h3 align="center">A passionate software developer from Nairobi-Kenya <a/></h3>
 
 <br/>
 ###
