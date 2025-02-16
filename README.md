@@ -1,4 +1,9 @@
-<h2 align="center" style="background: url("https://github.com/mainavict/pics/blob/main/iimage1.jpg")>
+<h2 align="center" style="
+  background: url('https://github.com/mainavict/pics/blob/main/iimage1.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 50px;
+  color: white;
+">
   Hi 👋! My name is Victor and I'm a software engineer from Kenya
 </h2>
 
