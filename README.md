@@ -1,13 +1,15 @@
-<div align="center" style="
-  background-img: url('https://your-direct-gif-link.gif') no-repeat center center;
-  background-size: cover;
-  padding: 50px;
-  color: white;
-">
-<h2>
-  Hi 👋! My name is Victor and I'm a software engineer from Kenya
-</h2>
-</div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+  </a>
+</h1>
+
+<h3 align="center">A passionate software developer from Canada <a/></h3>
+
+<br/>
 ###
 
 <div align="center">
