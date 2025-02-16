@@ -1,7 +1,13 @@
+<div align="center" style="
+  background: url('https://your-direct-gif-link.gif') no-repeat center center;
+  background-size: cover;
+  padding: 50px;
+  color: white;
+">
 <h2>
   Hi 👋! My name is Victor and I'm a software engineer from Kenya
 </h2>
-
+</div>
 ###
 
 <div align="center">
