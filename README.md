@@ -55,6 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mainavict/mainavict/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mainavict/mainavict/blob/output/github-contribution-grid-snake.svg" />
+
 
 ###
