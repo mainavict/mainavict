@@ -1,5 +1,5 @@
 <div align="center" style="
-  background: url('https://your-direct-gif-link.gif') no-repeat center center;
+  background-img: url('https://your-direct-gif-link.gif') no-repeat center center;
   background-size: cover;
   padding: 50px;
   color: white;
